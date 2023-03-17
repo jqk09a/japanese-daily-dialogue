@@ -63,8 +63,8 @@ For more details, please refer to the following paper:
 ```
 
 ## Copyright
-All copyright of this dataset belongs to our research group.
-The dataset is only for research purposes. It is accessible to commercial companies for research and evaluation, but it may not be utilized as a service, such as a chatbot or any other similar application.
+All rights to this dataset belong to our research group.  
+The dataset is only for research purposes. It is accessible to commercial companies for research and evaluation, but it may not be utilized as a service, such as a chatbot or any other similar application.  
 The dataset may not be distributed to others. 
 
 ## License

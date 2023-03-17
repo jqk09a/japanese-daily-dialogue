@@ -1,25 +1,27 @@
 # Japanese-Daily-Dialogue
 
-**Japanese Daily Dialogue (in Japanese, 日本語日常対話コーパス)** is a high-quality multi-turn dialogue dataset.
-The dataset consists of daily conversations on five topics, all written in standard Japanese using basic vocabulary and word order. All data were manually created and processed.
+**Japanese Daily Dialogue**, or **日本語日常対話コーパス** in Japanese, is a high-quality multi-turn dialogue dataset containing daily conversations on five topics: dailylife, school, travel, health, and entertainment. All dialogues are written in standard Japanese using basic vocabulary and word order. The dataset has been manually created and processed.
 
 
 
 ## Statistics
 
+Here are the statistics for the dataset:
+
 | Topic | # of dialogue | # of utterance |
 | --- | ---: | ---: |
-| Dailylife | 1,070 | 8,462 |
-| School | 1,058 | 8,197 |
-| Travel | 1,021 | 8,459 |
-| Health | 1,061 | 8,344 |
-| Entertainment | 1,051 | 8,318 |
+| Topic 1 - Dailylife | 1,070 | 8,462 |
+| Topic 2 - School | 1,058 | 8,197 |
+| Topic 3 - Travel | 1,021 | 8,459 |
+| Topic 4 - Health | 1,061 | 8,344 |
+| Topic 5 - Entertainment | 1,051 | 8,318 |
 | Total | 5,261 | 41,780 |
 
 
 
 ## Data Format
 
+The dataset is structured with separate JSON files for each topic, which are stored in the `data` directory. Each JSON file follows the format:
 
 ```json
 {
